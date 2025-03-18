@@ -11,7 +11,7 @@ Output:
 y: The output, which depends on the value of the select line.
 
 Working Principle:
-The value of the select line (sel) determines which input (a or b) is passed to the output (y):
+The value of the select line (sel) determines which input (a or b) is passed to the output (y)
 
 When sel = 0, the output y follows the value of input a.
 
